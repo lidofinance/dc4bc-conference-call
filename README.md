@@ -2,7 +2,7 @@
 
 This repository is used by dc4bc participants to communicate with each other in order to start DKG rounds. The procedure is as follows:
 
-1. Somebody creates a new file `dc4bc-conference-call-22-10-2020` with the following structure:
+1. Somebody creates a new file `dc4bc-conference-call-22-10-2020.json` with the following structure:
 ```
 {
   "SigningThreshold": 1,
