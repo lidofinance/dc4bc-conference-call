@@ -18,4 +18,4 @@ This repository is used by dc4bc participants to communicate with each other in 
 2. Other participants open pull-requests with their data, appending to the list of `Participants`;
 3. When everything is ready, the contents of this file are used as input for the StartDKG procedure by one of the participants.
 
-*N.B.: for more information about dc4bc please visit https://github.com/depools/dc4bc/blob/master/HowTo.md*
+*N.B.: for more information about getting the data for this procedure please visit https://github.com/depools/dc4bc/blob/master/HowTo.md*
