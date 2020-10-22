@@ -1,5 +1,10 @@
 {
   "SigningThreshold": 3,
   "Participants": [
+    {
+    "Addr": "pr0n00gler",
+    "PubKey": "u/4fJD1HtAIIG8m11a+azyg+2cLdIwiblp3VZ+Na5+Y=",
+    "DkgPubKey": "sC3vCYeBkc0t90GKmnFzRdYN77MBDkhQb5lo8AHvl4a1FLDClPf0yDEq7Rd8ITXE"
+    },
   ]
 }
