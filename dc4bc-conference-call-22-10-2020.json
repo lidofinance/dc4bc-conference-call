@@ -20,6 +20,11 @@
     "Addr": "klyaus",
     "PubKey": "c5LKygO4rMGbuPyMajxhrV6f2dus3tMFpQazXO21oss=",
     "DkgPubKey": "sLDiB+Vyszhn778FqRvDWsjMYEWCHZvlRbZpYOf9XE3yaHEO7Cc3VL/mRGtLbZuf"
+    },
+    {
+    "Addr": "taven",
+    "PubKey": "klwXHw25MWBjXISfAeVK3F/OPbgSVTMpXk0Ug0ClgKU=",
+    "DkgPubKey": "r7Wq5wIbMtoZLEOKYu5yRlOWRyOaVZ5r9JRE14vb2mc4Z/vk9BZk3iBNOZ/CFllj"
     }
   ]
 }
