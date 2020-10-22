@@ -10,6 +10,11 @@
     "Addr": "azav",
     "PubKey": "ES2iewZnzDar0Rgr3KTZxPA8zG2441Mhm74bFt7cbxQ=",
     "DkgPubKey": "tCl5vrAIVVz1wsqXrOwJtujx+571obe0aGnNQKKSEJ0YV65y5kdRjB0A77ShhEnW"
+    },
+    {
+    "Addr": "azaza",
+    "PubKey": "dYrKk9T4e1a/72ZbebCCgsb4J3P4zyH/KntWZZ/Hsm0=",
+    "DkgPubKey": "gB2QUwI8MFIi2+wZLwiYALE7oF0UnCukcFnrEBe7XlI8raTf1IOvWCKQNiXEQOll"
     }
   ]
 }
