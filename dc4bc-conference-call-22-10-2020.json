@@ -12,9 +12,19 @@
     "DkgPubKey": "tCl5vrAIVVz1wsqXrOwJtujx+571obe0aGnNQKKSEJ0YV65y5kdRjB0A77ShhEnW"
     },
     {
+    "Addr": "azaza",
+    "PubKey": "dYrKk9T4e1a/72ZbebCCgsb4J3P4zyH/KntWZZ/Hsm0=",
+    "DkgPubKey": "gB2QUwI8MFIi2+wZLwiYALE7oF0UnCukcFnrEBe7XlI8raTf1IOvWCKQNiXEQOll"
+    },
+    {
+    "Addr": "klyaus",
+    "PubKey": "c5LKygO4rMGbuPyMajxhrV6f2dus3tMFpQazXO21oss=",
+    "DkgPubKey": "sLDiB+Vyszhn778FqRvDWsjMYEWCHZvlRbZpYOf9XE3yaHEO7Cc3VL/mRGtLbZuf"
+    },
+    {
     "Addr": "taven",
     "PubKey": "klwXHw25MWBjXISfAeVK3F/OPbgSVTMpXk0Ug0ClgKU=",
     "DkgPubKey": "r7Wq5wIbMtoZLEOKYu5yRlOWRyOaVZ5r9JRE14vb2mc4Z/vk9BZk3iBNOZ/CFllj"
-     }
+    }
   ]
 }
