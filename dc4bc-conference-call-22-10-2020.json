@@ -6,5 +6,10 @@
     "PubKey": "u/4fJD1HtAIIG8m11a+azyg+2cLdIwiblp3VZ+Na5+Y=",
     "DkgPubKey": "sC3vCYeBkc0t90GKmnFzRdYN77MBDkhQb5lo8AHvl4a1FLDClPf0yDEq7Rd8ITXE"
     },
+    {
+    "Addr": "azav",
+    "PubKey": "ES2iewZnzDar0Rgr3KTZxPA8zG2441Mhm74bFt7cbxQ=",
+    "DkgPubKey": "tCl5vrAIVVz1wsqXrOwJtujx+571obe0aGnNQKKSEJ0YV65y5kdRjB0A77ShhEnW"
+    }
   ]
 }
