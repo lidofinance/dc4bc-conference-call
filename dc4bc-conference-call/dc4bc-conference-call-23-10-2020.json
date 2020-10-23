@@ -21,5 +21,11 @@
     "PubKey": "g3JhfYpiCFxK4UDFYpfJYiMQdmQKUVy36dNeYnPG+WM=",
     "DkgPubKey": "gZVrDnUoMhm3ocmzrsIbH/uRxShwyGxEuZyG69GANF8vaUVOFf5BVLF9sfrLedZi"
     }
+    {
+    "Addr": "klyaus",
+    "PubKey": "AN22KnPEisabPAUldGxp/VFGcJtFQ1fQqzxgI92ayoQ=",
+    "DkgPubKey": "i9FT6l+nGNQijmO88IrWLPGBFQoxk8VNkxZEpiv4+nyz5YcjNdIumUUiSGmt/hVF"
+    }
+
   ]
 }
