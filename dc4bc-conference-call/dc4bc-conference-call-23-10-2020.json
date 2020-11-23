@@ -2,30 +2,29 @@
   "SigningThreshold": 5,
   "Participants": [
     {
-    "Addr": "azav",
-    "PubKey": "07pMISQYmKTjGOIySpKik1dhZdZR528ZR6CSVNGIahM=",
-    "DkgPubKey": "tkNNiWnqsPgeWU8pPPhHfzkVVlcHR8suFTREg3skG6Z/LP5Ww8qqbCnuiHMF/cMX"
+      "Addr": "azav",
+      "PubKey": "07pMISQYmKTjGOIySpKik1dhZdZR528ZR6CSVNGIahM=",
+      "DkgPubKey": "tkNNiWnqsPgeWU8pPPhHfzkVVlcHR8suFTREg3skG6Z/LP5Ww8qqbCnuiHMF/cMX"
     },
     {
-    "Addr": "taven",
-    "PubKey": "wxbsB/9GhHtPzNB0X+Zt1ljstAWymITUt38D5YRlgBk=",
-    "DkgPubKey": "j1OAKmochj6HJVBadEq0PcWHp0L95PRIaGC4fM2LdoOi3pPfKlvyT5RAVSq3vN6K"
+      "Addr": "taven",
+      "PubKey": "wxbsB/9GhHtPzNB0X+Zt1ljstAWymITUt38D5YRlgBk=",
+      "DkgPubKey": "j1OAKmochj6HJVBadEq0PcWHp0L95PRIaGC4fM2LdoOi3pPfKlvyT5RAVSq3vN6K"
     },
     {
-    "Addr": "pr0n00gler",
-    "PubKey": "bq/jFJfyeJydVoD7HU1Vw5thzLz/NYYMoQ3eXBoC5XI=",
-    "DkgPubKey": "hvyaB4CuQb0gmDf485O6z2A8scg4wpFD7aP8b9MtaeMP9Fuu3C6715p/+rl15C6t"
+      "Addr": "pr0n00gler",
+      "PubKey": "bq/jFJfyeJydVoD7HU1Vw5thzLz/NYYMoQ3eXBoC5XI=",
+      "DkgPubKey": "hvyaB4CuQb0gmDf485O6z2A8scg4wpFD7aP8b9MtaeMP9Fuu3C6715p/+rl15C6t"
     },
     {
-    "Addr": "azaza",
-    "PubKey": "g3JhfYpiCFxK4UDFYpfJYiMQdmQKUVy36dNeYnPG+WM=",
-    "DkgPubKey": "gZVrDnUoMhm3ocmzrsIbH/uRxShwyGxEuZyG69GANF8vaUVOFf5BVLF9sfrLedZi"
+      "Addr": "azaza",
+      "PubKey": "g3JhfYpiCFxK4UDFYpfJYiMQdmQKUVy36dNeYnPG+WM=",
+      "DkgPubKey": "gZVrDnUoMhm3ocmzrsIbH/uRxShwyGxEuZyG69GANF8vaUVOFf5BVLF9sfrLedZi"
     }
     {
-    "Addr": "klyaus",
-    "PubKey": "AN22KnPEisabPAUldGxp/VFGcJtFQ1fQqzxgI92ayoQ=",
-    "DkgPubKey": "i9FT6l+nGNQijmO88IrWLPGBFQoxk8VNkxZEpiv4+nyz5YcjNdIumUUiSGmt/hVF"
+      "Addr": "klyaus",
+      "PubKey": "AN22KnPEisabPAUldGxp/VFGcJtFQ1fQqzxgI92ayoQ=",
+      "DkgPubKey": "i9FT6l+nGNQijmO88IrWLPGBFQoxk8VNkxZEpiv4+nyz5YcjNdIumUUiSGmt/hVF"
     }
-
   ]
 }
