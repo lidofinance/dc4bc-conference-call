@@ -1,5 +1,10 @@
 {
   "SigningThreshold": 5,
   "Participants": [
+    {
+    "Username": "stakingFacilities",
+    "PubKey": "OUu3h/SMvOU9iVshzuEvvfr6/t5f01mFXMxsW3s6z6Q=",
+    "DkgPubKey": "j/cguGxPLbOoypj/+lQSZqF5j3/FPMWp0dVMvXRhM02Y0ioMDahM8nHivbJiWfHK"
+    },
   ]
 }
