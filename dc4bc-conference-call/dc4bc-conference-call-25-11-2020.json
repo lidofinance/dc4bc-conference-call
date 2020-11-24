@@ -1,5 +1,10 @@
 {
   "SigningThreshold": 5,
   "Participants": [
+    {
+      "Addr": "certus_one",
+      "PubKey": "b89WzpaoDVDC7dh1tq1cpX66i3ZXayWy6c6px4xx63g=",
+      "DkgPubKey": "pSWLhhDPdBw85NDqBV70/h/eFQFV2aMYxZ1bSNUMEmgACXABTDWuFqCp+DSew/BS"
+    },
   ]
 }
