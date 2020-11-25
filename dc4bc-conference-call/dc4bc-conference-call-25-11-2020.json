@@ -15,6 +15,11 @@
       "Addr": "certus_one",
       "PubKey": "b89WzpaoDVDC7dh1tq1cpX66i3ZXayWy6c6px4xx63g=",
       "DkgPubKey": "pSWLhhDPdBw85NDqBV70/h/eFQFV2aMYxZ1bSNUMEmgACXABTDWuFqCp+DSew/BS"
+    },
+    {
+      "Username": "blockscape",
+      "PubKey": "J9t/NYY9clAY/d5DrOL6r4uo7veUtDE6MLeffI9UGnI=",
+      "DkgPubKey": "gUrwF9eFL+Yd6oYKEepeWEwI1UCjL15imi52pcKepOHqUlguQRJz9z1xU3yZHHBN"
     }
   ]
 }
