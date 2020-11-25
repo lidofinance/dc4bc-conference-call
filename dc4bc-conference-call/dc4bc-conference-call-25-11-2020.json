@@ -1,5 +1,5 @@
 {
-  "SigningThreshold": 5,
+  "SigningThreshold": 4,
   "Participants": [
     {
       "Addr": "sikkatech",
@@ -20,6 +20,11 @@
       "Username": "blockscape",
       "PubKey": "J9t/NYY9clAY/d5DrOL6r4uo7veUtDE6MLeffI9UGnI=",
       "DkgPubKey": "gUrwF9eFL+Yd6oYKEepeWEwI1UCjL15imi52pcKepOHqUlguQRJz9z1xU3yZHHBN"
+    },
+    {
+      "Username": "azav",
+      "PubKey": "BKW0WPXV5TEL9gEJJ+wVFAYY/sKORYBqGRG1y1os0/0=",
+      "DkgPubKey": "hiB42BVHyMKI5PuB4FiZRMD9GDACFW2VL64k2tEKpOApChvdcVhY8fLVnL9zkvUa"
     }
   ]
 }
