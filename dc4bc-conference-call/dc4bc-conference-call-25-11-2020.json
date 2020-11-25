@@ -1,8 +1,25 @@
 {
   "SigningThreshold": 5,
-  "Participants": [{
-    "Username": "blockscape",
-    "PubKey": "J9t/NYY9clAY/d5DrOL6r4uo7veUtDE6MLeffI9UGnI=",
-    "DkgPubKey": "gUrwF9eFL+Yd6oYKEepeWEwI1UCjL15imi52pcKepOHqUlguQRJz9z1xU3yZHHBN"
-  }]
+  "Participants": [
+    {
+      "Addr": "sikkatech",
+      "PubKey": "sQEUwpqrcTJUhulH5OkR4p/vke1bDkKVlmGbVCvAtig=",
+      "DkgPubKey": "tg38w7s3EA9r5sSVkioJ4GwwqU4OPkWho+L8hghL0mPDbIvdALFDyWWoNqnxVC1g"
+    },
+    {
+      "Username": "stakingFacilities",
+      "PubKey": "OUu3h/SMvOU9iVshzuEvvfr6/t5f01mFXMxsW3s6z6Q=",
+      "DkgPubKey": "j/cguGxPLbOoypj/+lQSZqF5j3/FPMWp0dVMvXRhM02Y0ioMDahM8nHivbJiWfHK"
+    },
+    {
+      "Addr": "certus_one",
+      "PubKey": "b89WzpaoDVDC7dh1tq1cpX66i3ZXayWy6c6px4xx63g=",
+      "DkgPubKey": "pSWLhhDPdBw85NDqBV70/h/eFQFV2aMYxZ1bSNUMEmgACXABTDWuFqCp+DSew/BS"
+    },
+    {
+      "Username": "blockscape",
+      "PubKey": "J9t/NYY9clAY/d5DrOL6r4uo7veUtDE6MLeffI9UGnI=",
+      "DkgPubKey": "gUrwF9eFL+Yd6oYKEepeWEwI1UCjL15imi52pcKepOHqUlguQRJz9z1xU3yZHHBN"
+    }
+  ]
 }
