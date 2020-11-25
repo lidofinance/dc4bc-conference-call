@@ -2,6 +2,11 @@
   "SigningThreshold": 4,
   "Participants": [
     {
+      "Addr": "edescourtis",
+      "PubKey": "VNLIG7Y2n883v7vGX1HQRfpxxiy45HemRbpBrOCXYTw=",
+      "DkgPubKey": "hOOU7GL+m8Bdnj50zQ/2PI3x7WKlK+0zD9deQFXeBStRisNbovvbuy0sxVU6fEtL"
+    },
+    {
       "Addr": "sikkatech",
       "PubKey": "sQEUwpqrcTJUhulH5OkR4p/vke1bDkKVlmGbVCvAtig=",
       "DkgPubKey": "tg38w7s3EA9r5sSVkioJ4GwwqU4OPkWho+L8hghL0mPDbIvdALFDyWWoNqnxVC1g"
