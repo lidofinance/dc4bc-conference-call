@@ -1,0 +1,13 @@
+{
+  "username": "USERNAME",
+  "listen_address": "localhost:8080",
+  "state_dbdsn": "/tmp/dc4bc_USERNAME_state/",
+  "storage_dbdsn": "51.158.98.208:9093",
+  "storage_topic": "ceremony_25_11_2020",
+  "key_store_dbdsn": "/tmp/dc4bc_YOUR_USERNAME_key_store",
+  "frames_delay": 10,
+  "chunk_size": 512,
+  "producer_credentials": "producer:producerpass",
+  "consumer_credentials": "consumer:consumerpass",
+  "kafka_truststore_path": "./ca.crt"
+}
