@@ -1,5 +1,10 @@
 {
   "SigningThreshold": 5,
   "Participants": [
+    {
+      "Addr": "sikkatech",
+      "PubKey": "sQEUwpqrcTJUhulH5OkR4p/vke1bDkKVlmGbVCvAtig=",
+      "DkgPubKey": "tg38w7s3EA9r5sSVkioJ4GwwqU4OPkWho+L8hghL0mPDbIvdALFDyWWoNqnxVC1g"
+    },
   ]
 }
