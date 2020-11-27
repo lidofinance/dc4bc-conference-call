@@ -1,0 +1,10 @@
+{
+  "SigningThreshold": 5,
+  "Participants": [
+    {
+      "Username": "",
+      "PubKey": "",
+      "DkgPubKey": ""
+    }
+  ]
+}
