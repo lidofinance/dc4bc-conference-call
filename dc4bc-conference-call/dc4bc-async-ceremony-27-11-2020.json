@@ -2,7 +2,7 @@
   "SigningThreshold": 5,
   "Participants": [
     {
-      "Addr": "",
+      "Username": "",
       "PubKey": "",
       "DkgPubKey": ""
     }
