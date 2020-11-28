@@ -2,9 +2,9 @@
   "SigningThreshold": 5,
   "Participants": [
     {
-      "Username": "",
-      "PubKey": "",
-      "DkgPubKey": ""
+      "Username": "blockscape",
+      "PubKey": "idagJZL/G+gKfs0k1KwRPR22U2eAyvUp5xz/nxjt2MQ=",
+      "DkgPubKey": "iwPpBMog0vMtgyhUypWrRSsvFlf1dyl0LE0yo0Nm0Ii1IlyHZAD7iUM9pL+cbQhk"
     }
   ]
 }
