@@ -2,9 +2,9 @@
   "SigningThreshold": 5,
   "Participants": [
     {
-      "Username": "",
-      "PubKey": "",
-      "DkgPubKey": ""
+      "Username": "certus_one",
+      "PubKey": "vPV4Y4Tr+ADc9WiCsygq8fMfxUwlP0AVLAhNnf0uD+s=",
+      "DkgPubKey": "kx+WqW0hKqKYPtwKloGprn+Xgy+M5GxFcILgxLLUCACiV8tRsfyQSeDBX0Af9kXB"
     }
   ]
 }
