@@ -1,5 +1,5 @@
 {
-  "SigningThreshold": 5,
+  "SigningThreshold": 4,
   "Participants": [
     {
       "Username": "certus_one",
@@ -25,6 +25,11 @@
       "Username": "kadmil",
       "PubKey": "p6WORofEyM+2hN0ZefVoP4s8A3upALfbS+Dm/LsyRqo=",
       "DkgPubKey": "rzv1qImnHDcDcIx5kgG7iFzszOpjqO/Xa0UUAaOgJdA8GpgX7VX65MbINqDZf7Xj"
+    },
+    {
+      "Username": "azav",
+      "PubKey": "NZLhVQdHnFQyF8Kb4Cz3h6MGptnP9Epz8MjFCV1tMfM=",
+      "DkgPubKey": "iCSlTgBHclbF2zGPqNDNiLgjBmT11Ya87vM8t8LGYNE8f1WnHsePyjL7Vg0/F59n"
     }
   ]
 }
