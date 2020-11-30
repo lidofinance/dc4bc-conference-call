@@ -20,6 +20,11 @@
       "Username": "vsh",
       "PubKey": "W6+IvBFjXMcFz3dmvCk+EsaQIXagoINYy5EzuRFwCnw=",
       "DkgPubKey": "qvVre5VijV9HB40SL34LCsVA4E+AcaKEbwMo6njX/kas8M/1Ic5T7ibz+uRdL6eJ"
+    },
+    {
+      "Username": "kadmil",
+      "PubKey": "p6WORofEyM+2hN0ZefVoP4s8A3upALfbS+Dm/LsyRqo=",
+      "DkgPubKey": "rzv1qImnHDcDcIx5kgG7iFzszOpjqO/Xa0UUAaOgJdA8GpgX7VX65MbINqDZf7Xj"
     }
   ]
 }
