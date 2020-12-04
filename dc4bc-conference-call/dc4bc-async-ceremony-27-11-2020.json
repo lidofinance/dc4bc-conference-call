@@ -2,6 +2,11 @@
   "SigningThreshold": 4,
   "Participants": [
     {
+      "Username": "stakefish",
+      "PubKey": "I86SXqxPrDoF7y/dhLaArXYLEUwezjf6778edUCs6bo=",
+      "DkgPubKey": "ov0nEqcDR0dABrz3+SHYxN1vhHAm5xO+vKzA6fJ6bzvdkwl0A1BXh3yqst9QeC/C"
+    },
+    {
       "Username": "certus_one",
       "PubKey": "vPV4Y4Tr+ADc9WiCsygq8fMfxUwlP0AVLAhNnf0uD+s=",
       "DkgPubKey": "kx+WqW0hKqKYPtwKloGprn+Xgy+M5GxFcILgxLLUCACiV8tRsfyQSeDBX0Af9kXB"
