@@ -1,0 +1,10 @@
+{
+  "SigningThreshold": 2,
+  "Participants": [
+    {
+      "Username": "banteg",
+      "PubKey": "nX0Sg6qDia1/+vELuiWwS89udHO9ilYaSZI1rKrGywc=",
+      "DkgPubKey": "pF2GZngUsT6F+XEnpBCV9R4lmV2A5Nk0cnAsHFuNsQ4SoLNaMKNTmxrVagHDlnDy"
+    }
+  ]
+}
