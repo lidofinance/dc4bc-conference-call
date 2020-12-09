@@ -1,10 +1,35 @@
 {
-  "SigningThreshold": 5,
+  "SigningThreshold": 4,
   "Participants": [
+    {
+      "Username": "certus_one",
+      "PubKey": "vPV4Y4Tr+ADc9WiCsygq8fMfxUwlP0AVLAhNnf0uD+s=",
+      "DkgPubKey": "kx+WqW0hKqKYPtwKloGprn+Xgy+M5GxFcILgxLLUCACiV8tRsfyQSeDBX0Af9kXB"
+    },
     {
       "Username": "blockscape",
       "PubKey": "idagJZL/G+gKfs0k1KwRPR22U2eAyvUp5xz/nxjt2MQ=",
       "DkgPubKey": "iwPpBMog0vMtgyhUypWrRSsvFlf1dyl0LE0yo0Nm0Ii1IlyHZAD7iUM9pL+cbQhk"
+    },
+    {
+      "Username": "stakingFacilities",
+      "PubKey": "8GRj2WP692uWf6migWy6yysC44L7HhPYxTWWqufH95s=",
+      "DkgPubKey": "kG82LpiGpSvmr+/sZAEF07+DQLtZTcc0jQVmQ0E2ajtQayVQRWOFVS+0x/TtC3EQ"
+    },
+    {
+      "Username": "vsh",
+      "PubKey": "W7PN6p0PuRuvdZ8Tnid31dnTZFBHUC1imqq2AIBrSqw=",
+      "DkgPubKey": "qvVre5VijV9HB40SL34LCsVA4E+AcaKEbwMo6njX/kas8M/1Ic5T7ibz+uRdL6eJ"
+    },
+    {
+      "Username": "kadmil",
+      "PubKey": "p6WORofEyM+2hN0ZefVoP4s8A3upALfbS+Dm/LsyRqo=",
+      "DkgPubKey": "rzv1qImnHDcDcIx5kgG7iFzszOpjqO/Xa0UUAaOgJdA8GpgX7VX65MbINqDZf7Xj"
+    },
+    {
+      "Username": "azav",
+      "PubKey": "kN6UWr7IF7cs1fzELduPOt/7OqZBNvH9IF/rZ8AbbGA=",
+      "DkgPubKey": "tgUixG4YaArFCQITZagC79LapXqAVUNuaZ9x8gcTb5OtZptKGfV2Yy3FUpyKiYEH"
     }
   ]
 }
