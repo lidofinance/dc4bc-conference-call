@@ -8,7 +8,7 @@ This repository is used by dc4bc participants to communicate with each other in 
   "SigningThreshold": 1,
   "Participants": [
     {
-    "Addr": "addr1",
+    "Username": "username1",
     "PubKey": "Otwt+xeI7Po3aNIcLWugnMIHxWcoTPnI3kylUkIFq80=",
     "DkgPubKey": "icmEgjz+F/W6qC347pIvu317GOZA7vj4cthe/+6+GtTvh4hng0C6yx40f7RTKcNuCe+xUATI2dNEciyx7ntUaAzBOuuzRuYmOIYjBTFmt8Zms/9K1EVMhXm0zGFb5rfP"
     }
