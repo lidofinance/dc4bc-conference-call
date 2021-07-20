@@ -1,7 +1,10 @@
 {
   "SigningThreshold": 4,
-  "Participants": [
-    {
+  "Participants": [{
+      "Username": "blockscape",
+      "PubKey": "idagJZL/G+gKfs0k1KwRPR22U2eAyvUp5xz/nxjt2MQ=",
+      "DkgPubKey": "iwPpBMog0vMtgyhUypWrRSsvFlf1dyl0LE0yo0Nm0Ii1IlyHZAD7iUM9pL+cbQhk"
+    }, {
       "Username": "certus_one",
       "PubKey": "vPV4Y4Tr+ADc9WiCsygq8fMfxUwlP0AVLAhNnf0uD+s=",
       "DkgPubKey": "kx+WqW0hKqKYPtwKloGprn+Xgy+M5GxFcILgxLLUCACiV8tRsfyQSeDBX0Af9kXB"
